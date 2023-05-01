@@ -4,6 +4,6 @@ ChatterBot==1.0.5
 gensim==3.8.1
 Requests==2.22.0
 scikit_learn==0.22.1
-flask==1.1.1
+flask==2.3.2
 chatterbot==1.0.5
 chatterbot-corpus==1.2.0
